@@ -1,0 +1,21 @@
+#Data Manipulation
+pandas
+numpy
+#Viualization
+matplotlib
+seaborn
+plotly
+#time series model
+statsmodels #for arima
+pmdarima #auto-arima
+scikit-learn #scaling, metrics
+#Deep learning
+tensorflow #lstm model
+keras 
+#Deployment
+streamlit
+fastapi
+uvicorn
+#utilities
+pyyaml
+joblib
